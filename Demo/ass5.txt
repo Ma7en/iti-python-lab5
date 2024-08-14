@@ -1,0 +1,13 @@
+1-create class animal ---> charchteristics, methods
+methods --> eat, drink
+
+4-creat class cat inherited from class animal ---> charchteristics, methods
+
+
+6-has member function (cat)
+	meow
+
+
+7-override for function eat 
+	from animal class in cat class
+
